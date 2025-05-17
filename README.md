@@ -35,24 +35,6 @@ Asistente auditivo accesible y multiplataforma desarrollado por estudiantes secu
 
 ---
 
-## ⚙️ Instalación y uso
-
-```bash
-# Clonar repositorio
-git clone https://github.com/usuario/tobi-auditivo.git
-cd tobi-auditivo
-
-# Instalar dependencias
-pip install -r requirements.txt
-
-# Ejecutar
-python tobi.py
-```
-
-> 🎧 Asegurate de conectar auriculares con micrófono antes de ejecutar.
-
----
-
 ## 🔍 Materiales y Métodos
 
 - **Investigación documental**: Lectura y análisis de informes de la OMS, artículos médicos y divulgativos.
