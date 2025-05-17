@@ -79,20 +79,14 @@ Asistente auditivo accesible y multiplataforma desarrollado por estudiantes secu
 
 ## 👨‍💻 Autores
 
-- Demian Alejandro Gomez Saucedo – 6°U – DNI: 47833863
-- Santiago Nicolás Llamosas – 6°U – DNI: 48159501
-- Tobias Sotelo – 6°U – DNI: 47749504
+- Demian Alejandro Gomez Saucedo 
+- Santiago Nicolás Llamosas 
+- Tobias Sotelo 
+- Luciano Joaquín Toledo 
 
 🎓 Instituto Técnico Dr. Emilio Lamarca  
 📍 Lomas de Zamora, Provincia de Buenos Aires – CUE: 0614763-00  
 🗓 Año cursado: 2024
-
----
-
-## 👩‍🏫 Asesores Docentes
-
-- Espínola Recalde Milagros Abigail – DNI: 45008142
-- Alegría Ariel Gustavo – DNI: 26372334
 
 ---
 
@@ -106,19 +100,6 @@ Asistente auditivo accesible y multiplataforma desarrollado por estudiantes secu
 - https://dspace.ups.edu.ec/bitstream/123456789/25160/1/UPS-CT010613.pdf
 - https://www.nidcd.nih.gov/es/espanol/audifonos
 - Manual de encuestas sobre el cuidado del oído y audición – OMS
-
----
-
-## ❤️ Agradecimientos
-
-Queremos agradecer profundamente:
-
-- A nuestros profesores Milagros Abigail Espínola Recalde y Ariel Gustavo Alegría por su guía, paciencia y motivación.
-- A los jefes de taller Joaquín Adrián Cuesta y Florencia Belén Pizarro.
-- A nuestra institución por el espacio de aprendizaje.
-- A quienes respondieron nuestras encuestas y nos brindaron su testimonio.
-- A la organización de la Feria Regional, por la oportunidad de mostrar nuestro proyecto al mundo.
-- También agradecemos a nosotros mismos, por el compromiso, esfuerzo y crecimiento que logramos en cada etapa del proyecto.
 
 ---
 
