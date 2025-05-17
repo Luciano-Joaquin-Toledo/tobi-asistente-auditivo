@@ -4,7 +4,6 @@
 
 <p align="center">
   🧪 <b>Feria Regional de Ciencia, Educación, Arte y Tecnología 2024</b><br/>
-  🏅 <b>¡Seleccionado para la instancia provincial!</b>
 </p>
 
 ---
